@@ -1,0 +1,3 @@
+/media/nuh/Extended/WindowsFiles/Documents/Project-Obsidian/Uni/Term4.5/CS 300/FILESCS300/Homework3/cmake-build-debug/CMakeFiles/Homework3.dir
+/media/nuh/Extended/WindowsFiles/Documents/Project-Obsidian/Uni/Term4.5/CS 300/FILESCS300/Homework3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/nuh/Extended/WindowsFiles/Documents/Project-Obsidian/Uni/Term4.5/CS 300/FILESCS300/Homework3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
